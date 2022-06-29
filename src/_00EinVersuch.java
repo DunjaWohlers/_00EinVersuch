@@ -21,5 +21,7 @@ public class _00EinVersuch {
             System.out.println("Summe" + zahl);
         }
         System.out.println(arr[1] + arr[2]);
+
+        System.out.println("Das war David");
     }
 }
